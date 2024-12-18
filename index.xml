@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的全新 Hugo 网站</title>
+        <link>http://example.org/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>tjm18862610270@163.com (tjm)</managingEditor>
+            <webMaster>tjm18862610270@163.com (tjm)</webMaster><lastBuildDate>Tue, 17 Dec 2024 23:06:15 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>hello hugo</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Tue, 17 Dec 2024 23:06:15 &#43;0800</pubDate>
+    <author>tjm</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[终于启动了，不容易啊]]></description>
+</item>
+</channel>
+</rss>
